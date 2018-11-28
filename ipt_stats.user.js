@@ -6,6 +6,7 @@
 // @version       1.0
 // @description   Prints out summarized Inbox Placement Test Stats
 // @include       https://admin.cordial.*
+// @updateURL     https://github.com/jpaddock/tm_scripts/raw/master/ipt_stats.user.js
 // @grant   GM_getValue
 // @grant   GM_setValue
 // @grant   GM_deleteValue
